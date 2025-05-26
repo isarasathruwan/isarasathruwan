@@ -5,7 +5,7 @@
 
 - 🎓 I'm an Undergraduate at **NSBM Green University.**
 
-- 💬 Ask me about **System Architecture | Business Logic Mode | Data Flow & Process Mapping |ling|**
+- 💬 Ask me about **System Architecture | Business Logic Mode | Data Flow & Process Mapping |**
 
 - 🔭 I’m currently following **a BSc in Management Information Systems (Special).**
 
